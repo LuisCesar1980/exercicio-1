@@ -1,0 +1,43 @@
+.body{
+	  background-color:white;
+     }
+.tabela{
+	    color:red;
+	    background-color:#EEE9E9;
+	    /** margin-left:100; */
+	    /** margin-right:100; */
+	    margin-top:0;
+	    /** margin-bottom:100; */
+	    border-style:double;
+	    border-color:#473C8B;
+	    border-width:medium;
+		width: 100%;
+		height: 200%;
+       }
+.titulo{
+	font-size:40px;
+	font-family:century gothic;
+	color:white;
+}
+.primeira-tag-td{
+     background-color:#FAEBD7;	
+}
+.menu{
+	font-size:15px;
+	font-family:lucida console;
+	font-weight:bolder;
+	background-color:#836FFF;
+}
+.segunda-tag-td{
+	background-color:pink;
+}
+#texto{
+	font-size:15px;
+	font-family:lucida console;
+	color: green;
+}
+.rodape{
+	font-family:monotype corsiva;
+	font-weight:bold;
+	background-color:#BFEFFF;
+}
